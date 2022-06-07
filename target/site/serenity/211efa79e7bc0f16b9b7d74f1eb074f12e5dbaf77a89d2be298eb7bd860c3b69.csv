@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Service CURD with steps","Test001","SUCCESS","2022-06-06T23:52:57.820+01:00[Europe/London]","0.0","0.05"
+"Service CURD with steps","Test002","SUCCESS","2022-06-06T23:52:57.869+01:00[Europe/London]","0.0","0.03"
+"Service CURD with steps","Test003","SUCCESS","2022-06-06T23:52:57.901+01:00[Europe/London]","0.0","0.08"
+"Service CURD with steps","Test004","SUCCESS","2022-06-06T23:52:57.986+01:00[Europe/London]","0.0","0.09"
